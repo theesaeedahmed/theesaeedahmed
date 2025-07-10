@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 ---
 
+### 📄 Resume
+[Download my Resume (PDF)](https://drive.google.com/file/d/1QB6IAq2MxLYDpiPCVYkdihuiQC8kAzP2/view?usp=sharing)
+
+---
+
 ### 💼 What I Do
 
 - Design full-stack applications with clean, modular architectures  
@@ -56,6 +61,7 @@ Here are some ideas to get you started:
 
 - 💼 [LinkedIn](https://linkedin.com/in/theesaeedahmed/)
 - 💻 [GitHub](https://github.com/theesaeedahmed)
+- 🐦 [X](https://x.com/theesaeedahmed)
 - 🧠 [LeetCode](https://leetcode.com/u/theesaeedahmed/)
 - 📧 [Email](mailto:theesaeedahmed@gmail.com)
 
